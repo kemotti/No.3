@@ -1,5 +1,5 @@
 # 0CSM2210_No.3
-
+windowsOS,visualstudiocodeでの開発をしました。
 
 
 1,入力フォームから文字を入れる。
